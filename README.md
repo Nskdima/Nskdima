@@ -26,9 +26,9 @@
 
 ### 📊 Моя статистика GitHub
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=dark&hide_border=true" alt="Dmitry's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nskdima&show_icons=true&theme=dark&hide_border=true" alt="Dmitry's GitHub stats" />
 </p>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nskdima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nskdima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ---
 
