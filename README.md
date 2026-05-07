@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привет! Я Дмитрий 👋
 
-<!--
-**Nskdima/Nskdima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Интересуюсь компьютерным железом, администрированием серверов и веб-разработкой. Люблю разбираться в том, как всё устроено — от сетевых протоколов до микросхем.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек технологий
+
+**Software & Web:**
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+**Hardware & Networking:**
+![Server](https://img.shields.io/badge/Server-Management-blue?style=for-the-badge&logo=linux&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-Repair-orange?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### 🔭 Над чем я работаю
+*   🌐 Разработка и поддержка статических сайтов на **Jekyll**.
+*   🖥 Настройка домашних серверов для **Minecraft** и сетевых хранилищ.
+*   🔧 Ремонт электроники и пайка (восстанавливаю гаджеты).
+
+---
+
+### 📊 Моя статистика GitHub
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=dark&hide_border=true" alt="Dmitry's GitHub stats" />
+</p>
+
+---
+
+### 📫 Как со мной связаться
+*   **Telegram:** [Твой_Ник]
+*   **Discord:** [Твой_Ник]
