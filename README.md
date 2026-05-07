@@ -25,7 +25,10 @@
 ---
 
 ### 📊 Моя статистика GitHub
-![Language](https://github-readme-stats.shion.dev/api/top-langs/?username=Nskdima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nskdima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
 
@@ -34,4 +37,5 @@
 *   **Telegram:** [Твой_Ник]
 *   **Discord:** [Твой_Ник]
 ---
-[![](https://komarev.com/ghpvc/?username=Nskdima&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=Nskdima&color=blue&style=flat-square)
