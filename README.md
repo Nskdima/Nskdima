@@ -28,9 +28,13 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=dark&hide_border=true" alt="Dmitry's GitHub stats" />
 </p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nskdima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ### 📫 Как со мной связаться
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nskdimka) 
 *   **Telegram:** [Твой_Ник]
 *   **Discord:** [Твой_Ник]
+---
+[![](https://komarev.com/ghpvc/?username=Nskdima&icon=0&color=0)](https://visitcount.itsvg.in)
